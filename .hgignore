@@ -1,0 +1,21 @@
+syntax: glob
+
+*.class
+*.jar
+*.war
+*.properties
+surefire-reports/*
+target/*
+target
+*.orig
+*.db
+*.war
+*.log
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+scratch.*
+scratch*
+tomcat.*
+atomic.*
